@@ -86,3 +86,9 @@
 {% include_relative _4-layouts/post.scss %}
 {% include_relative _4-layouts/tags-page.scss %}
 {% include_relative _4-layouts/contact-page.scss %}
+
+.pixel-art { //Note: I put this here myself (not part of the template)
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  display: block; /* Helps with alignment */
+}
