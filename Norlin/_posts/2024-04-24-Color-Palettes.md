@@ -10,7 +10,7 @@ featured: true
 In the character selection screen, you can select the color of your character:
 ![Color Selection]({{ "/images/CharacterSelectColors.jpg" | relative_url }})
 
-Wow, it even changes the color of effects:
+Wow, it even changes the color of effects!
 ![Sho funky colors]({{ "/images/ShoShoOverUnder.jpg" | relative_url }})
 
 Unfortunately, this was difficult to program. Far too difficult. I'm sick of shaders.
