@@ -15,8 +15,10 @@ menu-settings:
       url: '/about/'
  #   - title: 'Contact Me'
  #     url: '/contact/'
-    - title: 'Style Guide'
-      url: '/styleguide/'
+ #   - title: 'Style Guide'
+ #     url: '/styleguide/'
+    - title: 'Guide'
+      url: '/guide/'
 
 
 #-------------------------------
@@ -31,7 +33,7 @@ author:
 hero:
   title: emrld
   description: Documentation of Right of Way and other projects
-  image: '/images/BackgroundBanner.jpg'
+  image: '/images/BackgroundBannerCropped1.png'
 
 
 #-------------------------------

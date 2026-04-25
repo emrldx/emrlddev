@@ -37,7 +37,23 @@ I could go on and on about Akira Kurosawa films. I'll leave it at this: *Ikiru* 
 
 Oh! What a coincidence. Someone needs to pay this emrld guy for his great work.
 
+Musashi is the clearest example:
 
+    based on Miyamoto Musashi’s adaptability,
+    structured through stance play,
+    and built to feel like samurai duel pressure rather than combo-watching.
+
+He also embodies movie rhythm:
+
+    taunts and mind games,
+    sudden shifts in momentum,
+    and high-stakes commitment windows.
+
+The stages try to be cinematic/suspensful:
+
+    Snowy Field mirrors a memorable snow battle moment.
+    Ganryu Island is a direct duel location adaptation.
+    Tall Grass leans into atmosphere and pacing, like the kind of stillness before the strike.
 
 
 
