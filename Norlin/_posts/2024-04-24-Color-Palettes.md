@@ -5,6 +5,7 @@ description: To change the color of your chosen character, I spent hours program
 date:   2026-04-24 00:00:00 +0000
 image:  '/images/ShoShoOverUnder.jpg'
 tags:   [Game-Development, BTS, Coding, Debugging]
+featured: true
 ---
 In the character selection screen, you can select the color of your character:
 ![Color Selection]({{ "/images/CharacterSelectColors.jpg" | relative_url }})
@@ -22,10 +23,12 @@ Spoiler alert, but later on, the shader code will have to reiterate through each
 ![Palette 1]({{ "/images/palettes/Foilist Palette 1.png" | relative_url }}){: .pixel-art width="50%"}
 ![Palette 2]({{ "/images/palettes/Foilist Palette 2.png" | relative_url }}){: .pixel-art width="50%"}
 ![Palette 3]({{ "/images/palettes/Foilist Palette 3.png" | relative_url }}){: .pixel-art width="50%"}
-So, as long as the colors stay in one row, the shader scales proportionally and can be used for any character, regardless of the color count.
+As long as the colors stay in one row, the shader scales proportionally and can be used for any character, regardless of the color count.
 ![Sho Palette]({{ "/images/palettes/Sho Palette.png" | relative_url }}){: .pixel-art width="100%"}
 *I don't remember Sho having that many shades of red... that's not good...*
-# The code
+
+
+# Guide/Walkthrough
 I created a ShaderMaterial on the Sprite2D, and gave it a new "VisualShader" shader with mode "CanvasItem".
 Three custom parameters are made: the original palette, the new palette, and the color count. These can be edited in the engine per character, but that would limit us to two palettes. It's better to pass the arguments in set in code. For example,
 ``` py

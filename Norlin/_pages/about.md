@@ -2,10 +2,12 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/PoseWithHEMAMask.png'
+image: '/images/me/me_2.jpg'
 ---
 
 *Right of Way* is a fencing-based fighting game, named after fencing’s “rule of priority”. 
+
+2,200 hours. Several independent projects, intelligent game systems, real-time physics simulations, artificial intelligence enemies, quaternion rotations, graphics shaders, graphic design, 3D modeling, sound design, music composition, marketing, entrepreneur-ing.
 
 Developer of the best fencing-based 2D indie fighting game ever, Right of Way. If you love old 1950's Akira Kurosawa samurai movies, Olympic fencing, Street Fighter, Guilty Gear, programming, Godot Engine, game development, indie games, HEMA fencing, spriting, art, pixel art, or literally any niche interest, I already made a video about it.
 
