@@ -23,11 +23,19 @@ At this point, my game *Right of Way* is a subversion of stereotypes. The poster
 I guess this all started with my game’s inspiration and namesake, fencing. Olympic fencing is a subversion of historical fencing, as the former simplifies deadly swordfights into a two-dimensional game.
 
 # Uniting My Diverse Interests
+### Fighting Games
+Fighting games are a huge influence on, well, my fencing-based fighting game.
+
 ##### Street Fighter
-In freshman year of high school, I religiously played Street Fighter III: 3rd Strike on my school chromebook. I grew up playing fighting games during quarantine (mostly FighterZ and Guilty Gear Strive), but made the switch to SF3 to kill time in school. Well, my biology teacher noticed... and challenged me to a 1v1. Huh. Embarassingly, he destroyed me. Again. And again. Over and over again. I grew up playing fighting games during quarantine? He grew up playing fighting games in arcades. I was no match. I trained until, on the LAST day of school, I finally beat him. Even better, I killed his Ken with Akuma's raging demon, closing out the fateful match with flames.
+In freshman year of high school, I religiously played *Street Fighter III: 3rd Strike* on my school chromebook. I grew up playing fighting games during quarantine (mostly FighterZ and Guilty Gear Strive), but made the switch to SF3 to kill time in school. Well, my biology teacher noticed... and challenged me to a 1v1. Huh. Embarassingly, he destroyed me. Again. And again. Over and over again. I grew up playing fighting games during quarantine? He grew up playing fighting games in arcades. I was no match. I trained until, on the LAST day of school, I finally beat him. Even better, I killed his Ken with Akuma's raging demon, closing out the fateful match with flames.
 
 ![Akuma Raging Demon]({{ "/gifs/akumaRagingDemon.gif" | relative_url }})
 
+SF3 inspires the art and gameplay of Right of Way. While it is near-impossible for me to replicate SF3's beautiful sprite work, I can incorporate the game's system mechanics. Most notably is parrying, which defends from all damage (in contrast, blocking causes chip damage in most fighting games) and blockstun, granting you frame advantage (meaning, you can act before the attacker can). The parry window is short, making this high-risk high-reward.
+Furthermore, parries in SF3 are done by tapping forward. So, while it's a small commitment, it still leaves you open to getting hit. As the player, you could block, or you could risk getting hit to parry.
+In *Right of Way*, you can tap forward, but there is also a dedicated parry button. This makes it easier for new players, but opens the skill ceiling; pressing the parry button forces the animation, leaving you stunned in endlag, so experienced players may pivot towards pressing forward instead of risking the animation.
+
+Sho's super attack is based on Ken's Super Art 3 from SF3!
 
 ##### Musashi, samurai movies/books
 Watch any of my videos, and you will likely hear about the book *Musashi* by Eji Yoshikawa. Genuinely, I bring it up in 4+ videos. I read that book in freshman year of high school, and loved it (obviously). Samurai media is utterly captivating--the aesthetics, philosophy, quiet intensity, duels with gentle build-ups to suddenly explode into a deadly strike. Before *Musashi* was *Seven Samurai*, a film I watched in 8th grade on my phone as my travel guide sped down the Autobahn near Munich, Germany. Sure, I enjoyed Munich, Nuremberg, Rothenberg, and Salzburg (Austria), but the highlight of my trip was *Seven Samurai*.
@@ -36,36 +44,3 @@ I could go on and on about Akira Kurosawa films. I'll leave it at this: *Ikiru* 
 <p><iframe src="https://www.youtube.com/embed/qos4YKiHiMA?si=mwJ2v16-qQfQYRBI" frameborder="0" allowfullscreen></iframe></p>
 
 Oh! What a coincidence. Someone needs to pay this emrld guy for his great work.
-
-Musashi is the clearest example:
-
-    based on Miyamoto Musashi’s adaptability,
-    structured through stance play,
-    and built to feel like samurai duel pressure rather than combo-watching.
-
-He also embodies movie rhythm:
-
-    taunts and mind games,
-    sudden shifts in momentum,
-    and high-stakes commitment windows.
-
-The stages try to be cinematic/suspensful:
-
-    Snowy Field mirrors a memorable snow battle moment.
-    Ganryu Island is a direct duel location adaptation.
-    Tall Grass leans into atmosphere and pacing, like the kind of stillness before the strike.
-
-
-
-
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit potionibus.
-
-![Minimalism]({{site.baseurl}}/images/609.jpg)
-*Minimalism / [Unsplash](https://unsplash.com/)*
-
-Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis. Put in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere.
-
-
-Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine.
-
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.
