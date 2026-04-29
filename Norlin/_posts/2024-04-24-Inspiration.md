@@ -44,3 +44,23 @@ I could go on and on about Akira Kurosawa films. I'll leave it at this: *Ikiru* 
 <p><iframe src="https://www.youtube.com/embed/qos4YKiHiMA?si=mwJ2v16-qQfQYRBI" frameborder="0" allowfullscreen></iframe></p>
 
 Oh! What a coincidence. Someone needs to pay this emrld guy for his great work.
+
+
+
+
+
+# Introductions to Gamedev
+##### Roblox
+something something games coded
+##### Snap!
+My first introduction to pixel art was in my AP Computer Science Principles class, using "Snap!", a block-coding platform. For my final project, I created an RTS troop warfare game. You could choose between three troop types, place them for both Red and Blue team, then watch them fight. Snap! taught me about cloning and managing huge amounts of data (especially as my horrible school chromebook struggled to load anything past 2 KB). More importantly, I got into pixel art by drawing the background and troops:
+![Snap Project]({{ "/images/SnapProject.png" | relative_url }})
+![Snap Project]({{ "/images/SnapProject1.png" | relative_url }})
+
+Yeah, the background looks horrible and the cavalry's horse is a different pixel size, but so what? I really enjoyed drawing the art and making the project. It was fun to figure out syncing troop data across one huge array, communicating between clones, and all of the above. 
+For the pixel art, I used "Piskel" a free website. Immediately after, I bought "Aseprite" on Steam for $20, feeling just so inspired. In fact, I was so inspired that I didn't touch Aseprite for a few months.
+However, I eventually did.
+One day, I was showering (good job) when the thought hit me: wait, if I think about fencing in terms of fighting games, why doesn't a fencing-based fighting game exist yet? It's so obvious! ... wait, why don't I make it myself?
+I loaded up Aseprite and haven't looked back since.
+
+
