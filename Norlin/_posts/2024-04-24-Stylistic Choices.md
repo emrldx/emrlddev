@@ -6,6 +6,37 @@ date:   2026-04-25 01:00:00 +0000
 image:  '/images/MusashiSuper.png'
 tags:   [Game-Development, BTS]
 ---
+
+# Pixel Art
+### Street Fighter 3
+SF3 inspires the art and gameplay of Right of Way. Unforutnately, it is near-impossible for me to replicate SF3's beautiful sprite work. Even so, many of my animations pay homage to the fighting game I grew up playing.
+Some of the beautiful art from Street Fighter 3:
+![Ken]({{ "/gifs/(kensa3).gif" | relative_url }})
+![Ken]({{ "/gifs/(kenbmk).gif" | relative_url }})
+![Ken]({{ "/gifs/(kenfhk).gif" | relative_url }})
+![Ken]({{ "/gifs/(kenhk).gif" | relative_url }})
+![Ken]({{ "/gifs/(kenhmk).gif" | relative_url }})
+![Ken]({{ "/gifs/(kensrk).gif" | relative_url }})
+![Ryu]({{ "/gifs/(ryusrk).gif" | relative_url }})
+![Ryu]({{ "/gifs/175px-(ryutsk).gif" | relative_url }})
+![Ryu]({{ "/gifs/175px-(ryuhdk).gif" | relative_url }})
+![Ryu]({{ "/gifs/175px-(ryujsg).gif" | relative_url }})
+![Ryu]({{ "/gifs/175px-(ryucmk).gif" | relative_url }})
+![Akuma Raging Demon]({{ "/gifs/akumaRagingDemon.gif" | relative_url }})
+
+Makoto's sprite work stands out in a game of gorgeous art. She feels amazing to play--despite her unorthodox control scheme--due to how her animations flow into one another. Some examples:
+![Makoto]({{ "/gifs/(makotochp).gif" | relative_url }})
+![Makoto]({{ "/gifs/(makotofkage).gif" | relative_url }})
+![Makoto]({{ "/gifs/(makotolk).gif" | relative_url }})
+![Makoto]({{ "/gifs/175px-(makotocmk).gif" | relative_url }})
+![Makoto]({{ "/gifs/175px-(makotochk).gif" | relative_url }})
+![Makoto]({{ "/gifs/175px-(makotofhk).gif" | relative_url }})
+![Makoto]({{ "/gifs/175px-(makotohayate).gif" | relative_url }})
+![Makoto]({{ "/gifs/175px-(makotomk).gif" | relative_url }})
+The smears, stretches, pauses... wow.
+![Makoto]({{ "/gifs/175px-(makotosa3).gif" | relative_url }})
+
+
 # Cinema in Pixels: The Samurai Movie Influence
 *Right of Way* began as a fencing simulator, but it also evolved into a tribute to 1950s and 60s Japanese cinema. 
 

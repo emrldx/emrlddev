@@ -3,7 +3,7 @@ layout: post
 title:  Cinematic Super Devlog
 description: Behind-the-scenes, including the script
 date:   2025-12-24 00:01:00 +0000
-image:  '/images/MusashiSuper.jpg'
+image:  '/images/MusashiSuper.png'
 tags:   [Script]
 ---
 After writing a script, about 20% is deleted. Then, after recording voiceovers, about 30% is deleted. Trust me, videos are really trimmed down--the following script isn't nearly as much as I wrote, and definitely nowhere close to how much work I put in.

@@ -1,52 +1,54 @@
 ---
 layout: post
-title:  Musashi
+title:  Snowy Field
 description: Guide to the Musashi character
 date:   2026-04-25 00:00:00 +0000
 image:  '/images/MusashiClash.jpg'
-tags:   [Help]
+tags:   [Help, Art]
 ---
+# Stage Development: Snowy Field
 
-# Musashi Gameplay Guide: The Legendary Ronin
+The **Snowy Field** is a love letter to Eiji Yoshikawa’s novel, *Musashi*. It is specifically based on the iconic battle against the Yoshioka martial arts school.
 
-Musashi is the centerpiece of *Right of Way*, designed as an adaptive **Stance Character**. Unlike traditional fighters where you learn one moveset, playing Musashi is like learning four characters in one. He is built on the philosophy that "one small mistake is enough" to end a duel.
+### **Visual Evolution**
+* **The Parallax Effect:** This stage utilizes multiple layers of background (forest, Japanese-style house, fencing dummies) that move at different speeds to create a sense of 3D depth.
+* **Particle Systems:** Using Godot’s particle systems, we implemented falling snow that is also split into parallax layers, making the environment feel cold and alive.
+* **The Redesign:** Originally a small canvas, the stage was enlarged and the "random hut" was replaced with swords thrust into snowy hills, signifying a forgotten battlefield.
 
-### **Background**
-Based on the legendary Miyamoto Musashi, this character embodies the fluid, "win by any means" style of the historical ronin. From carving oars into wooden swords to showing up half a day late to his own duels, Musashi’s history is one of eccentricity and dominance. In *Right of Way*, he brings that same unpredictable energy to the 2D plane.
+***
 
-### **Playstyle**
-Musashi is an adaptive fighter. While he began as a "rekka" character, he has evolved into a complex archetype where players must decide whether to master a single stance or switch constantly to counter their opponent’s strategy.
+# Stage Development: Ganryu Island
 
+You can't have a Musashi game without the site of his most famous duel against Kojiro Sasaki. **Ganryu Island** was the most painstakingly drawn stage in the game.
 
-| Stance | Archetype | Key Strength | Key Weakness |
-| :--- | :--- | :--- | :--- |
-| **0 Sword Style (0SS)** | Iaido / Zoner | Full-screen "Flash Cuts" | Requires setup/patience |
-| **1 Sword Style (1SS)** | All-Rounder | Great pokes and balance | Slower movement |
-| **2 Sword Style (2SS)** | Rushdown | Multi-hit "frametraps" | Risky parry/recovery |
-| **2 Sword Style Back (2SS1)** | Big Body / One-Shot | High damage, safe jab | Committal movement |
+### **Artistic Challenges**
+* **The Sunrise:** Inspired by the *Samurai Trilogy* films, the stage features a unique pink and orange sunrise palette.
+* **Hand-Drawn Waves:** Unlike the snow particles, the waves on Ganryu Island were hand-animated to drift onto the sand.
+* **Interactive Water:** The ocean in the foreground is slightly transparent, giving the illusion that the characters are dueling with their feet submerged in the tide.
 
----
+***
 
-### **The Stances**
+# Stage Development: Tall Grass
 
-#### **0 Sword Style (0SS)**
-The "Iaido" style. This focuses on quick-draw techniques, including the **Flash Cut** and **Teleport Cut**. It turns *Right of Way* into a game of patience, forcing the opponent to guess whether you will slice through the air or appear behind them.
+The **Tall Grass** stage is a complete overhaul of a project from a year ago. It draws heavy inspiration from the classic samurai film *Harakiri*.
 
-#### **1 Sword Style (1SS)**
-This is Musashi’s neutral state. It features a **backslash** that draws the *wakizashi*, forcedly transitioning you into 2SS. It also includes a long-range **lunge** and a unique **jump** that provides vertical maneuverability at the cost of being unable to change directions mid-air.
+### **Development Breakthroughs**
+* **The Spray Paint Tool:** After 700 hours in Aseprite, the discovery of the spray paint tool allowed for the organic, chaotic look of the grass.
+* **Atmospheric Wind:** To mimic the tension of a cinematic standoff, wind particles and swaying grass animations were added to create constant motion.
+* **Scale:** The towers in the background were redrawn at a much larger scale to emphasize the isolation of the clearing.
 
-#### **2 Sword Style (2SS)**
-The ultimate pressure stance. 2SS allows for faster walking and dashing. Its core strength lies in **frametraps**—attacks with such small gaps that opponents who try to mash buttons will inevitably get hit. However, the parry window is smaller, making it a high-risk offensive choice.
+***
 
-#### **2 Sword Style Back (2SS1)**
-Triggered by specific lunges or taunts, this stance makes Musashi a "one-shot" threat. He becomes a "big body" character: slow walks, but terrifyingly fast pokes with the *wakizashi*. His parry in this stance is excellent, compensating for his lack of safe maneuverability.
+# Cinema in Pixels: The Samurai Movie Influence
 
-#### **2 Sword Style 1 Raised (2SS1R)**
-A specialized sub-stance where Musashi raises his katana to his ear. In this state, you **cannot move or parry**. You are trading all defense for a massive, high-speed ultimatum: the opponent must retreat or be cut down.
+*Right of Way* began as a fencing simulator, but it has evolved into a tribute to 1950s and 60s Japanese cinema. 
 
+### **The Kurosawa Aesthetic**
+References to films like *Seven Samurai*, *Yojimbo*, and *Sanjuro* permeate the game. The "one-hit-to-win" mechanic isn't just a gameplay choice; it’s an attempt to capture the "one-hit kill" tension found in the climactic duels of Toshiro Mifune’s filmography.
 
-# Data
-| Move | Name | Input | Length | Startup | Active | Endlag | Adv |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ![5C](/images/15.jpg){: width="60px"} | Extend | 5C | 20 | 4 | 6 | 10 | -6 |
-| ![5L](/images/15.jpg){: width="60px"} | Lunge | 5L | 20 | 7 | 8 | 18 | -3 |
+### **Bridging Fencing and Bushido**
+As a fencer and a fan of samurai media, the developer noted the striking similarities between the two:
+1.  **The Touch:** In fencing, a single touch scores.
+2.  **The Mistake:** In a samurai duel, one wrong step is fatal.
+
+This synergy creates a fighting game where the emphasis is not on practicing 50-hit combos in training mode, but on those quiet, intense moments where both players are within reach, and the first person to flinch loses everything.

@@ -36,8 +36,28 @@ Furthermore, parries in SF3 are done by tapping forward. So, while it's a small 
 In *Right of Way*, you can tap forward, but there is also a dedicated parry button. This makes it easier for new players, but opens the skill ceiling; pressing the parry button forces the animation, leaving you stunned in endlag, so experienced players may pivot towards pressing forward instead of risking the animation.
 
 Sho's super attack is based on Ken's Super Art 3 from SF3!
+![Ken]({{ "/gifs/(kensa3).gif" | relative_url }})
 
-##### Musashi, samurai movies/books
+Some of the beautiful art from Street Fighter 3:
+![Ken]({{ "/gifs/(kenbmk).gif" | relative_url }})
+![Ken]({{ "/gifs/(kenfhk).gif" | relative_url }})
+![Ken]({{ "/gifs/(kenhk).gif" | relative_url }})
+![Ken]({{ "/gifs/(kenhmk).gif" | relative_url }})
+![Ken]({{ "/gifs/(kensrk).gif" | relative_url }})
+![Ryu]({{ "/gifs/175px-(ryutsk).gif" | relative_url }})
+![Ryu]({{ "/gifs/175px-(ryuhdk).gif" | relative_url }})
+![Ryu]({{ "/gifs/175px-(ryujsg).gif" | relative_url }})
+![Makoto]({{ "/gifs/(makotochp).gif" | relative_url }})
+![Makoto]({{ "/gifs/(makotofkage).gif" | relative_url }})
+![Makoto]({{ "/gifs/(makotolk).gif" | relative_url }})
+![Makoto]({{ "/gifs/175px-(makotocmk).gif" | relative_url }})
+![Makoto]({{ "/gifs/175px-(makotochk).gif" | relative_url }})
+![Makoto]({{ "/gifs/175px-(makotofhk).gif" | relative_url }})
+![Makoto]({{ "/gifs/175px-(makotohayate).gif" | relative_url }})
+![Makoto]({{ "/gifs/175px-(makotomk).gif" | relative_url }})
+![Makoto]({{ "/gifs/175px-(makotosa3).gif" | relative_url }})
+
+##### Musashi: samurai movies/books
 Watch any of my videos, and you will likely hear about the book *Musashi* by Eji Yoshikawa. Genuinely, I bring it up in 4+ videos. I read that book in freshman year of high school, and loved it (obviously). Samurai media is utterly captivating--the aesthetics, philosophy, quiet intensity, duels with gentle build-ups to suddenly explode into a deadly strike. Before *Musashi* was *Seven Samurai*, a film I watched in 8th grade on my phone as my travel guide sped down the Autobahn near Munich, Germany. Sure, I enjoyed Munich, Nuremberg, Rothenberg, and Salzburg (Austria), but the highlight of my trip was *Seven Samurai*.
 I could go on and on about Akira Kurosawa films. I'll leave it at this: *Ikiru* is the best movie ever (behind *Good Will Hunting*) and the aesthetic of Kurosawa movies greatly inspired *Right of Way*. Most notably is Musashi, the character in *Right of Way*. I don't even know where to begin here, because he's the largest, most complex character by far. If only there was a 28-minute YouTube video that conveniently focused on him and his inspirati--
 
@@ -54,11 +74,11 @@ Oh! What a coincidence. Someone needs to pay this emrld guy for his great work.
 something something games coded
 ##### Snap!
 My first introduction to pixel art was in my AP Computer Science Principles class, using "Snap!", a block-coding platform. For my final project, I created an RTS troop warfare game. You could choose between three troop types, place them for both Red and Blue team, then watch them fight. Snap! taught me about cloning and managing huge amounts of data (especially as my horrible school chromebook struggled to load anything past 2 KB). More importantly, I got into pixel art by drawing the background and troops:
-![Snap Project]({{ "/images/SnapProject.jpg" | relative_url }})
-![Snap Project]({{ "/images/SnapProject1.jpg" | relative_url }})
+![Snap Project]({{ "/images/SnapProject.png" | relative_url }})
+![Snap Project]({{ "/images/SnapProject1.png" | relative_url }})
 
 Yeah, the background looks horrible and the cavalry's horse is a different pixel size, but so what? I really enjoyed drawing the art and making the project. It was fun to figure out syncing troop data across one huge array, communicating between clones, and all of the above. 
-For the pixel art, I used "Piskel" a free website. Immediately after, I bought "Aseprite" on Steam for $20, feeling just so inspired. In fact, I was so inspired that I didn't touch Aseprite for a few months.
+For the pixel art, I used "Piskel" a free website. Immediately after, I bought "Aseprite" on Steam for $20, feeling just so inspired by Snap!. In fact, I was so inspired that I sadly didn't touch Aseprite for a few months...
 However, I eventually did.
 One day, I was showering (good job) when the thought hit me: wait, if I think about fencing in terms of fighting games, why doesn't a fencing-based fighting game exist yet? It's so obvious! ... wait, why don't I make it myself?
 I loaded up Aseprite and haven't looked back since.
