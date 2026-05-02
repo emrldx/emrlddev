@@ -6,6 +6,7 @@ image: '/images/me/me_2.jpg'
 ---
 
 *Right of Way* is a fencing-based fighting game, named after fencing’s “rule of priority”. 
+{% include video.html url="/videos/PromotionalOverhaul.mp4" %}
 
 2,200 hours. Several independent projects, intelligent game systems, real-time physics simulations, artificial intelligence enemies, quaternion rotations, graphics shaders, graphic design, 3D modeling, sound design, music composition, marketing, entrepreneur-ing.
 

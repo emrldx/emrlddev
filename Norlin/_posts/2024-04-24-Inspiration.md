@@ -23,6 +23,15 @@ At this point, my game *Right of Way* is a subversion of stereotypes. The poster
 I guess this all started with my game’s inspiration and namesake, fencing. Olympic fencing is a subversion of historical fencing, as the former simplifies deadly swordfights into a two-dimensional game.
 
 # Uniting My Diverse Interests
+
+##### Musashi: samurai movies/books
+Watch any of my videos, and you will likely hear about the book *Musashi* by Eji Yoshikawa. Genuinely, I bring it up in 4+ videos. I read that book in freshman year of high school, and loved it (obviously). Samurai media is utterly captivating--the aesthetics, philosophy, quiet intensity, duels with gentle build-ups to suddenly explode into a deadly strike. Before *Musashi* was *Seven Samurai*, a film I watched in 8th grade on my phone as my travel guide sped down the Autobahn near Munich, Germany. Sure, I enjoyed Munich, Nuremberg, Rothenberg, and Salzburg (Austria), but the highlight of my trip was *Seven Samurai*.
+I could go on and on about Akira Kurosawa films. I'll leave it at this: *Ikiru* is the best movie ever (behind *Good Will Hunting*) and the aesthetic of Kurosawa movies greatly inspired *Right of Way*. Most notably is Musashi, the character in *Right of Way*. I don't even know where to begin here, because he's the largest, most complex character by far. If only there was a 28-minute YouTube video that conveniently focused on him and his inspirati--
+
+<p><iframe src="https://www.youtube.com/embed/qos4YKiHiMA?si=mwJ2v16-qQfQYRBI" frameborder="0" allowfullscreen></iframe></p>
+
+Oh! What a coincidence. Someone needs to pay this emrld guy for his great work.
+
 ### Fighting Games
 Fighting games are a huge influence on, well, my fencing-based fighting game.
 
@@ -57,21 +66,24 @@ Some of the beautiful art from Street Fighter 3:
 ![Makoto]({{ "/gifs/175px-(makotomk).gif" | relative_url }})
 ![Makoto]({{ "/gifs/175px-(makotosa3).gif" | relative_url }})
 
-##### Musashi: samurai movies/books
-Watch any of my videos, and you will likely hear about the book *Musashi* by Eji Yoshikawa. Genuinely, I bring it up in 4+ videos. I read that book in freshman year of high school, and loved it (obviously). Samurai media is utterly captivating--the aesthetics, philosophy, quiet intensity, duels with gentle build-ups to suddenly explode into a deadly strike. Before *Musashi* was *Seven Samurai*, a film I watched in 8th grade on my phone as my travel guide sped down the Autobahn near Munich, Germany. Sure, I enjoyed Munich, Nuremberg, Rothenberg, and Salzburg (Austria), but the highlight of my trip was *Seven Samurai*.
-I could go on and on about Akira Kurosawa films. I'll leave it at this: *Ikiru* is the best movie ever (behind *Good Will Hunting*) and the aesthetic of Kurosawa movies greatly inspired *Right of Way*. Most notably is Musashi, the character in *Right of Way*. I don't even know where to begin here, because he's the largest, most complex character by far. If only there was a 28-minute YouTube video that conveniently focused on him and his inspirati--
-
-<p><iframe src="https://www.youtube.com/embed/qos4YKiHiMA?si=mwJ2v16-qQfQYRBI" frameborder="0" allowfullscreen></iframe></p>
-
-Oh! What a coincidence. Someone needs to pay this emrld guy for his great work.
-
+##### Guilty Gear
+WIP
+> This is my vision
+>
+> <cite>Daisuke Ishiwatari</cite>
+![Guilty Gear]({{ "/images/guiltyGear/GGSTConceptArt.jpg" | relative_url }})
+![Guilty Gear]({{ "/images/guiltyGear/KyConceptArt.jpg" | relative_url }})
+![Guilty Gear]({{ "/images/guiltyGear/AnjiConceptArt.jpg" | relative_url }})
+![Guilty Gear]({{ "/images/guiltyGear/GiovannaConceptArt.jpg" | relative_url }})
+![Guilty Gear]({{ "/images/guiltyGear/GGConceptArt.jpg" | relative_url }})
 
 
 
 
 # Introductions to Gamedev
 ##### Roblox
-something something games coded
+WIP
+something something loads of games coded during quarantine
 ##### Snap!
 My first introduction to pixel art was in my AP Computer Science Principles class, using "Snap!", a block-coding platform. For my final project, I created an RTS troop warfare game. You could choose between three troop types, place them for both Red and Blue team, then watch them fight. Snap! taught me about cloning and managing huge amounts of data (especially as my horrible school chromebook struggled to load anything past 2 KB). More importantly, I got into pixel art by drawing the background and troops:
 ![Snap Project]({{ "/images/SnapProject.png" | relative_url }})

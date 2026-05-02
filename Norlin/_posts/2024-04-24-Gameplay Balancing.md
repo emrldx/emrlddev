@@ -1,19 +1,15 @@
 ---
 layout: post
 title:  Gameplay Balancing
-description: Transitioning fencing into a virtual form
+description: How do you translate fencing into video game form?
 date:   2026-04-24 00:00:00 +0000
 image:  '/images/me/me_7.jpg'
 tags:   [BTS]
 ---
 How do you balance a fighting game that has no healthbar?
 
-> This is my vision
->
-> <cite>Daisuke Ishiwatari</cite>
-
 # Blocking
-Most of development, I resisted the mechanic of blocking. *Right of Way* should have NO blocking, because in fencing, if your opponent's blade comes at you, are you going to hold backwards and magically not get hit? Of course not! If you are undoubtedly going to get hit, guess what? That's your fault. You can't just hold down-back when the opponent lunges at your feet. Instead, ask yourself, "Why are my feet so close to his blade?"  
+Most of development, I resisted the mechanic of blocking. *Right of Way* should have NO blocking, because in fencing, if your opponent's blade comes at you, are you going to hold backwards and Nmagically not get hit? Of course not! If you are undoubtedly going to get hit, guess what? That's your fault. You can't just hold down-back when the opponent lunges at your feet. Instead, ask yourself, "Why are my feet so close to his blade?"  
 However... playtesters beat *Right of Way* by spamming attacks. The game dwindled into the following cycle:
 1. Round start
 2. Walk forward
@@ -68,6 +64,13 @@ Both are great for conditioning and punishing.
 An install super that rotates the screen and fills it with your player's color.
 During PRIORITY, you retain right of way, no matter what you do. In addition, you can cancel your attacks WITHOUT needing a blockstring.
 {% include video.html url="/videos/PriorityExample.mp4" %}
+
+![PRIORITY]({{ "/images/guiltyGear/PRIORITY1.png" | relative_url }})
+![PRIORITY]({{ "/images/guiltyGear/PRIORITY2.png" | relative_url }})
+![PRIORITY]({{ "/images/guiltyGear/PRIORITY3.png" | relative_url }})
+![PRIORITY]({{ "/images/guiltyGear/PRIORITY4.png" | relative_url }})
+![PRIORITY]({{ "/images/guiltyGear/PRIORITY5.png" | relative_url }})
+
 Beware, your opponent can also activate PRIORITY to steal yours!
 {% include video.html url="/videos/PrioritySwitch.mp4" %}
 back-and-forth...
@@ -75,3 +78,4 @@ back-and-forth...
 
 # Super Advances/Retreats
 {% include video.html url="/videos/SuperAdvanceExample.mp4" %}
+
