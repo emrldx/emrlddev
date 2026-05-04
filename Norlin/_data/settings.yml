@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: emrld
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: '/images/15.jpg' # You can add own logo. For example '/images/logo.png'.
 description: A Development Log
 
 
