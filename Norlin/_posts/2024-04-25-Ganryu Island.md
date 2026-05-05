@@ -2,7 +2,7 @@
 layout: post
 title:  Ganryu Island
 description: Location of the Musashi vs Kojiro duel
-date:   2025-10-01 01:00:00 +0000
+date:   2020-10-01 01:00:00 +0000
 image:  '/images/MusashiSuper1.png'
 tags:   [Help, Art]
 ---
