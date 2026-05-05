@@ -10,7 +10,7 @@ image: '/images/me/me_2.jpg'
 
 2,200 hours. Several independent projects, intelligent game systems, real-time physics simulations, artificial intelligence enemies, quaternion rotations, graphics shaders, graphic design, 3D modeling, sound design, music composition, marketing, entrepreneur-ing.
 
-![Right of Way]({{ "'/images/marketing/Main Capsule.png'" | relative_url }})
+![Right of Way]({{ "/images/marketing/Main Capsule.png" | relative_url }})
 
 I'm the developer of the best fencing-based 2D indie fighting game ever, Right of Way. If you love old 1950's Akira Kurosawa samurai movies, Olympic fencing, Street Fighter, Guilty Gear, programming, Godot Engine, game development, indie games, HEMA fencing, spriting, art, pixel art, or literally any niche interest, I already made a video about it.
 
@@ -28,15 +28,15 @@ Initially, I only knew programming, which I learned during quarantine. So, I was
 <div class="gallery-box">
   <div class="gallery">
     <img src="{{site.baseurl}}/images/me/me_10.jpg">
+    <img src="{{site.baseurl}}/images/marketing/Shortcut.png">
     <img src="{{site.baseurl}}/images/ShoShoOverUnder.jpg">
-    <img src="{{site.baseurl}}/images/ShoShoWatermelon.jpg">
   </div>
   <em>Channel / <a href="https://www.youtube.com/@emrldYT" target="_blank">YouTube</a></em>
 </div>
 
 ![epee]({{ "/images/MusashiSuper.png" | relative_url }})
 
-![Right of Way]({{ "'/images/marketing/library_capsule.png'" | relative_url }})
+![Right of Way]({{ "/images/marketing/library_capsule.png" | relative_url }})
 
 
 

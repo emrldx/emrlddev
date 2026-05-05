@@ -2,7 +2,7 @@
 layout: post
 title:  Tall Grass
 description: Guide to the Musashi character
-date:   2026-04-02 00:00:00 +0000
+date:   2025-04-02 00:00:00 +0000
 image:  '/images/ShoShoZoomed.png'
 tags:   [Help, Art]
 ---

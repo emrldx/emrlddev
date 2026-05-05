@@ -92,3 +92,6 @@
   image-rendering: crisp-edges;
   display: block; /* Helps with alignment */
 }
+pre code {
+  font-size: 0.75em !important; /* Adjust this value as needed */
+}

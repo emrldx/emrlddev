@@ -2,7 +2,7 @@
 layout: post
 title:  What is "Right of Way"?
 description: The rule from Olympic fencing
-date:   2025-04-04 01:00:00 +0000
+date:   2024-01-01 01:00:00 +0000
 image:  '/images/marketing/Shortcut.png'
 tags:   [Fencing]
 featured: true

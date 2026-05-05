@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: page
 title:  Right of Way Guide
-description: (FOR PLAYTESTERS) Controls, movelists, system mechanics, numpad notation
-date:   2024-01-01 01:00:00 +0000
 image:  '/images/memes/GuyShrugging.png'
-tags:   [Playtesting, Help]
+permalink: /guide/
 ---
 # Major System Mechanic: "Right of Way"
 

@@ -2,7 +2,7 @@
 layout: post
 title:  Stylistic Choices
 description: Determining the aesthetics of Right of Way
-date:   2026-04-25 01:00:00 +0000
+date:   2026-03-10 01:00:00 +0000
 image:  '/images/MusashiSuper.png'
 tags:   [Game-Development, BTS]
 ---
@@ -20,7 +20,7 @@ Some of the beautiful art from Street Fighter 3:
 ![Ken]({{ "/gifs/(kenhmk).gif" | relative_url }})
 ![Ken]({{ "/gifs/(kensrk).gif" | relative_url }})
 ![Ryu]({{ "/gifs/(ryusrk).gif" | relative_url }})
-![Ryu]({{ "/gifs/175px-(ryutsk).gif" | relative_url }})
+![Ryu]({{ "/gifs/175px-(ryuatsk).gif" | relative_url }})
 ![Ryu]({{ "/gifs/175px-(ryuhdk).gif" | relative_url }})
 ![Ryu]({{ "/gifs/175px-(ryujsg).gif" | relative_url }})
 ![Ryu]({{ "/gifs/175px-(ryucmk).gif" | relative_url }})
@@ -58,12 +58,12 @@ This synergy creates a fighting game where the emphasis is not on practicing 50-
 Right of Way needed a visual upgrade.
 ### Trails
 One of the new visuals is the trails tracking algorithm.
-![Trails]({{ "/images/Trails.jpg" | relative_url }})
+![Trails]({{ "/images/Trails.png" | relative_url }})
 As the Foilist’s blade moves, a trail of red/green (depending on being player 1 or player 2) follows the tip. This improves tracking, helping players comprehend the movement of the blade and whether attacks landed; large or multi-hitting attacks may be poorly telegraphed and/or explosive, so the trail guides the viewer’s interpretation.
 
 
 
-![Background]({{ "/images/BackgroundBanner.png" | relative_url }})
+![Background]({{ "/images/BackgroundBannerCropped.png" | relative_url }})
 ![Sho Boxes]({{ "/images/ShoBoxesPurple.png" | relative_url }})
 ![Sho Zoomed]({{ "/images/ShoShoZoomed.png" | relative_url }})
-![Musashi Clash]({{ "/images/MusashiClash.png" | relative_url }})
+![Musashi Clash]({{ "/images/MusashiClash.jpg" | relative_url }})

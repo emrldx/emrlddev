@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: emrld
-logo: '/images/15.jpg' # You can add own logo. For example '/images/logo.png'.
+logo: '/images/marketing/LogoTrimmed.png' # You can add own logo. For example '/images/logo.png'.
 description: A Development Log
 
 
@@ -17,8 +17,12 @@ menu-settings:
  #     url: '/contact/'
  #   - title: 'Style Guide'
  #     url: '/styleguide/'
+    - title: 'Right of Way.'
+      url: '/RoW/'
     - title: 'Guide'
       url: '/guide/'
+    - title: 'Best'
+      url: '/best/'
     
 
 
@@ -34,7 +38,7 @@ author:
 hero:
   title: emrld
   description: Documentation of Right of Way and other projects
-  image: '/images/marketing/Background.png'
+  image: '/images/BackgroundBannerCropped1.png'
 
 
 #-------------------------------

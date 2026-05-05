@@ -2,7 +2,7 @@
 layout: post
 title:  Inspiration
 description: What inspired Right of Way and my millions of hobbies
-date:   2025-06-01 01:00:00 +0000
+date:   2026-01-01 01:00:00 +0000
 image:  '/images/Epee.jpg'
 tags:   [Fencing,BTS,IRL,Art,Street-Fighter,Guilty-Gear]
 featured: true
@@ -53,7 +53,7 @@ Some of the beautiful art from Street Fighter 3:
 ![Ken]({{ "/gifs/(kenhk).gif" | relative_url }})
 ![Ken]({{ "/gifs/(kenhmk).gif" | relative_url }})
 ![Ken]({{ "/gifs/(kensrk).gif" | relative_url }})
-![Ryu]({{ "/gifs/175px-(ryutsk).gif" | relative_url }})
+![Ryu]({{ "/gifs/175px-(ryuatsk).gif" | relative_url }})
 ![Ryu]({{ "/gifs/175px-(ryuhdk).gif" | relative_url }})
 ![Ryu]({{ "/gifs/175px-(ryujsg).gif" | relative_url }})
 ![Makoto]({{ "/gifs/(makotochp).gif" | relative_url }})

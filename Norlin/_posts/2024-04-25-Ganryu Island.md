@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Ganryu Island
-description: Guide to the Musashi character
-date:   2026-04-02 00:00:00 +0000
+description: Location of the Musashi vs Kojiro duel
+date:   2025-10-01 01:00:00 +0000
 image:  '/images/MusashiSuper1.png'
 tags:   [Help, Art]
 ---
