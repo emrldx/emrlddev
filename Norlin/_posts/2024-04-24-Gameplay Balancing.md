@@ -4,7 +4,7 @@ title:  Gameplay Balancing
 description: How do you translate fencing into video game form?
 date:   2026-04-24 00:00:00 +0000
 image:  '/images/me/me_7.jpg'
-tags:   [BTS]
+tags:   [BTS, Fighting-Games]
 ---
 How do you balance a fighting game that has no healthbar?
 

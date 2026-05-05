@@ -2,13 +2,13 @@
 layout: post
 title:  Inspiration
 description: What inspired Right of Way and my millions of hobbies
-date:   2026-04-24 00:00:00 +0000
+date:   2025-06-01 01:00:00 +0000
 image:  '/images/Epee.jpg'
-tags:   [Fencing,BTS,IRL]
+tags:   [Fencing,BTS,IRL,Art,Street-Fighter,Guilty-Gear]
 featured: true
 ---
 # Where did Right of Way come from?
-### Fencing
+## Fencing
 Most fencers began the sport as children. However, I began fencing in high school, and thereby struggled to enter the community. While everyone my age was an expert, I was too old for beginner lessons, and online fencing content was scarce. I stumbled upon the fencing strip far too late.
 Yet, by shifting my perspective, I quickly rose to my club's highest level. Simply, I fenced like I was playing the 2D fighting games I grew up on.
 In both, the concepts are the exact same: distance control, parries, whiff punishes, etc. Surprisingly, despite their similarities, no game combined them.
@@ -32,10 +32,10 @@ I could go on and on about Akira Kurosawa films. I'll leave it at this: *Ikiru* 
 
 Oh! What a coincidence. Someone needs to pay this emrld guy for his great work.
 
-### Fighting Games
+## Fighting Games
 Fighting games are a huge influence on, well, my fencing-based fighting game.
 
-##### Street Fighter
+### Street Fighter
 In freshman year of high school, I religiously played *Street Fighter III: 3rd Strike* on my school chromebook. I grew up playing fighting games during quarantine (mostly FighterZ and Guilty Gear Strive), but made the switch to SF3 to kill time in school. Well, my biology teacher noticed... and challenged me to a 1v1. Huh. Embarassingly, he destroyed me. Again. And again. Over and over again. I grew up playing fighting games during quarantine? He grew up playing fighting games in arcades. I was no match. I trained until, on the LAST day of school, I finally beat him. Even better, I killed his Ken with Akuma's raging demon, closing out the fateful match with flames.
 
 ![Akuma Raging Demon]({{ "/gifs/akumaRagingDemon.gif" | relative_url }})
@@ -66,26 +66,37 @@ Some of the beautiful art from Street Fighter 3:
 ![Makoto]({{ "/gifs/175px-(makotomk).gif" | relative_url }})
 ![Makoto]({{ "/gifs/175px-(makotosa3).gif" | relative_url }})
 
-##### Guilty Gear
+### Guilty Gear
 WIP
-> This is my vision
->
-> <cite>Daisuke Ishiwatari</cite>
+Guilty Gear is possibly a greater inspiration than Street Fighter, purely due to the hopeful nature of the former. There's something so captivating about the lore and, most importantly, music of Guilty Gear.
+##### The Music
+Genuinely the best music ever. It's so uplifting and, frankly, good (surprising for a video game). I know it sounds corny and nerdy and all of the above, but my deserted-island album of choice would be the complete Guilty Gear OST.
+Here's my playlist for those interested:
+https://open.spotify.com/playlist/2S7QEaj0RXiYWr43awwxra?si=72e29aa355014209
+
+##### The Art
+
 ![Guilty Gear]({{ "/images/guiltyGear/GGSTConceptArt.jpg" | relative_url }})
 ![Guilty Gear]({{ "/images/guiltyGear/KyConceptArt.jpg" | relative_url }})
 ![Guilty Gear]({{ "/images/guiltyGear/AnjiConceptArt.jpg" | relative_url }})
 ![Guilty Gear]({{ "/images/guiltyGear/GiovannaConceptArt.jpg" | relative_url }})
 ![Guilty Gear]({{ "/images/guiltyGear/GGConceptArt.jpg" | relative_url }})
 
+> This is my vision
+>
+> <cite>Daisuke Ishiwatari</cite>
 
 
 
 # Introductions to Gamedev
+##### Terraria Mod
+WIP
+first experience coding, a bit of pixel art
 ##### Roblox
 WIP
 something something loads of games coded during quarantine
 ##### Snap!
-My first introduction to pixel art was in my AP Computer Science Principles class, using "Snap!", a block-coding platform. For my final project, I created an RTS troop warfare game. You could choose between three troop types, place them for both Red and Blue team, then watch them fight. Snap! taught me about cloning and managing huge amounts of data (especially as my horrible school chromebook struggled to load anything past 2 KB). More importantly, I got into pixel art by drawing the background and troops:
+My first genuine introduction to pixel art was in my AP Computer Science Principles class, using "Snap!", a block-coding platform. For my final project, I created an RTS troop warfare game. You could choose between three troop types, place them for both Red and Blue team, then watch them fight. Snap! taught me about cloning and managing huge amounts of data (especially as my horrible school chromebook struggled to load anything past 2 KB). More importantly, I got into pixel art by drawing the background and troops:
 ![Snap Project]({{ "/images/SnapProject.png" | relative_url }})
 ![Snap Project]({{ "/images/SnapProject1.png" | relative_url }})
 

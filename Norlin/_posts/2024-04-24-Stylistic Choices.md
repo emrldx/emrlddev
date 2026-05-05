@@ -37,7 +37,7 @@ The smears, stretches, pauses... wow.
 ![Makoto]({{ "/gifs/175px-(makotosa3).gif" | relative_url }})
 
 
-# Cinema in Pixels: The Samurai Movie Influence
+# The Samurai Movie Influence
 *Right of Way* began as a fencing simulator, but it also evolved into a tribute to 1950s and 60s Japanese cinema. 
 
 ### **The Kurosawa Aesthetic**
@@ -51,7 +51,17 @@ As a fencer and a fan of samurai media, the developer noted the striking similar
 This synergy creates a fighting game where the emphasis is not on practicing 50-hit combos in training mode, but on those quiet, intense moments where both players are within reach, and the first person to flinch loses everything. This appeals most to lovers of "footsies" and playing neutral in fighting games.
 
 
-![Sho Boxes]({{ "/images/BackgroundBanner.png" | relative_url }})
+
+# Visuals
+Right of Way needed a visual upgrade.
+### Trails
+One of the new visuals is the trails tracking algorithm.
+![Trails]({{ "/images/Trails.jpg" | relative_url }})
+As the Foilist’s blade moves, a trail of red/green (depending on being player 1 or player 2) follows the tip. This improves tracking, helping players comprehend the movement of the blade and whether attacks landed; large or multi-hitting attacks may be poorly telegraphed and/or explosive, so the trail guides the viewer’s interpretation.
+
+
+
+![Background]({{ "/images/BackgroundBanner.png" | relative_url }})
 ![Sho Boxes]({{ "/images/ShoBoxesPurple.png" | relative_url }})
-![Sho Boxes]({{ "/images/ShoShoZoomed.png" | relative_url }})
-![Sho Boxes]({{ "/images/MusashiClash.png" | relative_url }})
+![Sho Zoomed]({{ "/images/ShoShoZoomed.png" | relative_url }})
+![Musashi Clash]({{ "/images/MusashiClash.png" | relative_url }})
