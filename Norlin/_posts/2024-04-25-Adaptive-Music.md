@@ -2,7 +2,7 @@
 layout: post
 title:  Adaptive Music
 description: How I programmed sheet music that changes during gameplay
-date:   2026-04-25 02:00:00 +0000
+date:   2026-03-20 02:00:00 +0000
 image:  '/images/AudacitySFXR.jpg'
 tags:   [Game-Development, BTS, Coding, Music]
 ---

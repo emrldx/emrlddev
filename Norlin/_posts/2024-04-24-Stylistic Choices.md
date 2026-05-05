@@ -6,6 +6,8 @@ date:   2026-04-25 01:00:00 +0000
 image:  '/images/MusashiSuper.png'
 tags:   [Game-Development, BTS]
 ---
+How were the aesthetics of Right of Way shaped over time?
+![Right of Way]({{ "/images/marketing/Main Capsule.png" | relative_url }})
 
 # Pixel Art
 ### Street Fighter 3

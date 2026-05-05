@@ -10,10 +10,11 @@ image: '/images/me/me_2.jpg'
 
 2,200 hours. Several independent projects, intelligent game systems, real-time physics simulations, artificial intelligence enemies, quaternion rotations, graphics shaders, graphic design, 3D modeling, sound design, music composition, marketing, entrepreneur-ing.
 
-Developer of the best fencing-based 2D indie fighting game ever, Right of Way. If you love old 1950's Akira Kurosawa samurai movies, Olympic fencing, Street Fighter, Guilty Gear, programming, Godot Engine, game development, indie games, HEMA fencing, spriting, art, pixel art, or literally any niche interest, I already made a video about it.
+![Right of Way]({{ "'/images/marketing/Main Capsule.png'" | relative_url }})
+
+I'm the developer of the best fencing-based 2D indie fighting game ever, Right of Way. If you love old 1950's Akira Kurosawa samurai movies, Olympic fencing, Street Fighter, Guilty Gear, programming, Godot Engine, game development, indie games, HEMA fencing, spriting, art, pixel art, or literally any niche interest, I already made a video about it.
 
 <p><iframe src="https://www.youtube.com/embed/C0YZ2mmfraI?si=s-MkdddmT-W6Ceon" frameborder="0" allowfullscreen></iframe></p>
-
 
 Most fencers began the sport as children. However, I began fencing in high school, and thereby struggled to enter the community. While everyone my age was an expert, I was too old for beginner lessons, and online fencing content was scarce. I stumbled upon the fencing strip far too late.
 Yet, by shifting my perspective, I quickly rose to my club's highest level. Simply, I fenced like I was playing the 2D fighting games I grew up on.
@@ -35,10 +36,16 @@ Initially, I only knew programming, which I learned during quarantine. So, I was
 
 ![epee]({{ "/images/MusashiSuper.png" | relative_url }})
 
+![Right of Way]({{ "'/images/marketing/library_capsule.png'" | relative_url }})
+
+
+
+
+
+<hr>
 
 > It was as if I had waited all this time for this moment and for the first light of this dawn to be vindicated.
 >
 > <cite>Albert Camus</cite>
-
 
 <hr>

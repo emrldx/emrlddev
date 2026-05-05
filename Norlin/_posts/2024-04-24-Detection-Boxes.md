@@ -6,9 +6,6 @@ date:   2026-04-25 00:03:00 +0000
 image:  '/images/FoilistShoBadBoxes.jpg'
 tags:   [Game-Development, BTS, Coding, Debugging]
 ---
-
-My name is Ben
-
 Here are the collision shapes in action!
 {% include video.html url="/videos/debug/BoxesOn.mp4" %}
 As you can see, there are many colliders active at once. They are:
