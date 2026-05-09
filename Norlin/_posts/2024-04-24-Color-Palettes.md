@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Color Palettes
-description: To change the color of your chosen character, I spent hours programming a shader and debugging...
+description: To change the color of your character, I spent hours programming a shader...
 date:   2026-04-10 00:00:00 +0000
 image:  '/images/ShoShoOverUnder.jpg'
 tags:   [Game-Development, BTS, Coding, Debugging]

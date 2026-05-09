@@ -2,13 +2,46 @@
 layout: post
 title:  Stylistic Choices
 description: Determining the aesthetics of Right of Way
-date:   2026-03-10 01:00:00 +0000
+date:   2026-04-10 01:00:00 +0000
 image:  '/images/MusashiSuper.png'
 tags:   [Game-Development, BTS]
 ---
 How were the aesthetics of Right of Way shaped over time?
-![Right of Way]({{ "/images/marketing/Main Capsule.png" | relative_url }})
 
+![Art]({{ "/images/marketing/LogoTrimmed.png" | relative_url }})
+
+# Indicating right of way
+Here are all the indicators at once--the overhead arrow, visible bar of meter, and body trails:
+{% include video.html url="/videos/trails/BodyTrails.mp4" %}
+
+### Why so many "distractions"?
+While the **right of way** arrow at the top was a great addition, I do not expect players to look *over* the combat and watch the arrow slowly transition. The player *should* focus on the fencing in-front of them--but, if they do not understand the **right of way** rule fully, they still need a visual guide. Which became the body trail.
+
+## Body Trails
+![Right of Way]({{ "/images/trails/BodyTrails2 0.jpg" | relative_url }})
+
+As the player moves, duplicates of their sprite follow. Well, only the player possessing **right of way** has this trail; this acts as a visual indicator of who has **priority**.
+{% include video.html url="/videos/trails/BodyTrails1.mp4" %}
+
+<hr/>
+# Blade Trail
+![Right of Way]({{ "/images/marketing/library_hero.png" | relative_url }})
+As the Foilist’s blade moves, a trail of red/green (depending on being player 1 or player 2) follows the tip. This improves tracking, helping players comprehend the movement of the blade and whether attacks landed; large or multi-hitting attacks may be poorly telegraphed and/or explosive, so the trail guides the viewer’s interpretation.
+
+#### Blade Trail vs Body Trail
+The trail system from before provided much of the logic for the body trail script. However, the key differences are:
+
+| Blade Trail | Body Trail |
+| :--- | :--- |
+| Both players | Whoever has **right of way** |
+| Instantaneous | Delayed |
+| Follows the tip of the blade | Follows the entire sprite (even as it animates) |
+| Detects the best position via an algorithm | Detects appearance via the character Sprite2D's variables |
+| Color changes over a gradient | Color is hard-set (but blends into transparency) |
+| Many invisible points | Many faded sprites |
+
+
+<hr>
 # Pixel Art
 ### Street Fighter 3
 SF3 inspires the art and gameplay of Right of Way. Unforutnately, it is near-impossible for me to replicate SF3's beautiful sprite work. Even so, many of my animations pay homage to the fighting game I grew up playing.
@@ -38,7 +71,7 @@ Makoto's sprite work stands out in a game of gorgeous art. She feels amazing to 
 The smears, stretches, pauses... wow.
 ![Makoto]({{ "/gifs/175px-(makotosa3).gif" | relative_url }})
 
-
+<hr>
 # The Samurai Movie Influence
 *Right of Way* began as a fencing simulator, but it also evolved into a tribute to 1950s and 60s Japanese cinema. 
 

@@ -2,7 +2,7 @@
 layout: post
 title:  Inspiration
 description: What inspired Right of Way and my millions of hobbies
-date:   2026-01-01 01:00:00 +0000
+date:   2026-01-02 01:00:00 +0000
 image:  '/images/Epee.jpg'
 tags:   [Fencing,BTS,IRL,Art,Street-Fighter,Guilty-Gear]
 featured: true
@@ -97,8 +97,8 @@ WIP
 something something loads of games coded during quarantine
 ##### Snap!
 My first genuine introduction to pixel art was in my AP Computer Science Principles class, using "Snap!", a block-coding platform. For my final project, I created an RTS troop warfare game. You could choose between three troop types, place them for both Red and Blue team, then watch them fight. Snap! taught me about cloning and managing huge amounts of data (especially as my horrible school chromebook struggled to load anything past 2 KB). More importantly, I got into pixel art by drawing the background and troops:
-![Snap Project]({{ "/images/SnapProject.png" | relative_url }})
-![Snap Project]({{ "/images/SnapProject1.png" | relative_url }})
+![Snap Project]({{ "/images/SnapProject.jpg" | relative_url }})
+![Snap Project]({{ "/images/SnapProject1.jpg" | relative_url }})
 
 Yeah, the background looks horrible and the cavalry's horse is a different pixel size, but so what? I really enjoyed drawing the art and making the project. It was fun to figure out syncing troop data across one huge array, communicating between clones, and all of the above. 
 For the pixel art, I used "Piskel" a free website. Immediately after, I bought "Aseprite" on Steam for $20, feeling just so inspired by Snap!. In fact, I was so inspired that I sadly didn't touch Aseprite for a few months...

@@ -2,10 +2,9 @@
 layout: post
 title:  What is "Right of Way"?
 description: The rule from Olympic fencing
-date:   2024-01-01 01:00:00 +0000
+date:   2026-01-01 01:01:00 +0000
 image:  '/images/marketing/Shortcut.png'
 tags:   [Fencing]
-featured: true
 ---
 “**Right of way**” in fencing is the rule that decides *which fencer’s touch scores first* when **both** fencers hit at about the same time.
 
@@ -47,7 +46,3 @@ In **épée**, there is no right of way:
 - Fencer A launches an attack.
 - Fencer B touches while A’s attack is still considered valid.
 - A’s attack gives A right of way, so **A’s touch scores** and B’s touch is negated.
-
----
-
-If you tell me which weapon you’re learning (**foil, sabre, or epee**) and what situation you’re stuck on (parry-riposte? counterattack? simultaneous touches?), I can explain the exact right-of-way decision path for that case.

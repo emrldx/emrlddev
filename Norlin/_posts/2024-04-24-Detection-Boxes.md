@@ -2,7 +2,7 @@
 layout: post
 title:  Detection Boxes
 description: Hitboxes, hurtboxes, beatboxes, collisionboxes, and clashboxes
-date:   2026-02-01 00:03:00 +0000
+date:   2025-02-01 00:03:00 +0000
 image:  '/images/FoilistShoBadBoxes.jpg'
 tags:   [Game-Development, BTS, Coding, Debugging]
 ---

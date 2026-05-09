@@ -6,11 +6,18 @@ image: '/images/me/me_2.jpg'
 ---
 
 *Right of Way* is a fencing-based fighting game, named after fencing’s “rule of priority”. 
-{% include video.html url="/videos/PromotionalOverhaul.mp4" %}
+![Right of Way]({{ "/images/marketing/Main Capsule.png" | relative_url }})
+In both fencing and 2D fighting games, the concepts are the exact same: distance control, parries, everything. This game combines them. 
 
+Except... there are no healthbars. It only takes *one hit* to score a point.
+
+However, what if both players hit each other simultaneously?
+The player with **right of way** scores the point.
+
+<hr/>
+# The developer
 2,200 hours. Several independent projects, intelligent game systems, real-time physics simulations, artificial intelligence enemies, quaternion rotations, graphics shaders, graphic design, 3D modeling, sound design, music composition, marketing, entrepreneur-ing.
 
-![Right of Way]({{ "/images/marketing/Main Capsule.png" | relative_url }})
 
 I'm the developer of the best fencing-based 2D indie fighting game ever, Right of Way. If you love old 1950's Akira Kurosawa samurai movies, Olympic fencing, Street Fighter, Guilty Gear, programming, Godot Engine, game development, indie games, HEMA fencing, spriting, art, pixel art, or literally any niche interest, I already made a video about it.
 
